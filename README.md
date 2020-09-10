@@ -1,13 +1,13 @@
 Installation:
 
-pip3 install matplotlib
-
 pip3 install -r requirements.txt
+
+OR
+
+download the binary file from the latest release
 
 
 Usage: python3 main.py
-
-or download the binary file from the latest release.
 
 Changing the fitting method:
 
