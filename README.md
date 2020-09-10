@@ -6,10 +6,9 @@ Changing the fitting method:
 
 Change the method fit_data() in main.py.
 
-Data format in Excel files:
-|Name|Name|Name|
-|val1|val1|val1|
-|val2|val2|val2|
-.....
+Format in excel files:
+
+First row contains titles. Each column represents one time series.
+All rows after contain one entry of each time series.
 
 
