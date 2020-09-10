@@ -1,3 +1,10 @@
+Installation:
+
+pip3 install matplotlib
+
+pip3 install -r requirements.txt
+
+
 Usage: python3 main.py
 
 or download the binary file from the latest release.
