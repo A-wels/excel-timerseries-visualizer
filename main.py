@@ -26,7 +26,7 @@ def load_table(widget=""):
     global buttons
 
     dialog = tk.Tk()
-    path = filedialog.askopenfilename()
+    path = filedialog.askopenfilename(initialdir=".")
     dialog.withdraw()
     df = read_excel(path)
     
